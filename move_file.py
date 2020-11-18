@@ -12,7 +12,7 @@ import time
 # ----------------------------------------------------------------------------------------------------
 # Source, Destination Directories & Global Variables
 
-Folder_Name = input("Enter Destination Folder > ")
+Folder_Name = input("Enter Source Folder > ")
 
 Source = "/Users/dineshdawonauth/Desktop/" + Folder_Name + "/"
 Destination = "/Users/dineshdawonauth/Desktop/Marked"
